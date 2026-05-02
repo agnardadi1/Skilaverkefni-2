@@ -26,12 +26,6 @@ header {
   padding: 1rem 0;
 }
 
-.stats {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
 #stats {
   display: flex;
   justify-content: center;
